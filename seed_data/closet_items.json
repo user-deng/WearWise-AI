@@ -1,0 +1,4640 @@
+[
+  {
+    "sku_id": "6a4b6b797d09bf00010f098e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "白",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "米白色宽松阔腿牛仔裤，高腰设计，前中金属纽扣搭配双侧斜插口袋，裤腿笔直垂坠，版型休闲利落，面料厚实有型。",
+      "confidence": 0.9
+    },
+    "wears": 30,
+    "idle_days": 95,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb9nk06k9h5igjp20000000003lkq7am.jpg"
+  },
+  {
+    "sku_id": "6a4b8621f7c8040001e50b34",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "印花",
+      "description": "米白色泡泡短袖连衣裙，方领系带设计，收腰合身上身，裙摆多层蛋糕裙叠加，碎花点缀，面料轻薄飘逸，甜美浪漫气质。",
+      "confidence": 0.85
+    },
+    "wears": 47,
+    "idle_days": 131,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb7ga06k9h5igjp20000000006pe6nhi.jpg"
+  },
+  {
+    "sku_id": "6a4b911e55f46a0001e5b491",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "无袖圆领黑色连衣裙，收腰设计凸显腰线，下摆为A字型大摆裙摆，面料垂坠有质感，简约百搭适合多种休闲场合。",
+      "confidence": 0.9
+    },
+    "wears": 45,
+    "idle_days": 72,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb80206k9h5igjp2000000000420j2n8.jpg"
+  },
+  {
+    "sku_id": "6a4b9fd78cb63f0001835d8c",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色纯棉半身裙，松紧抽绳腰头，A字型大摆廓形，裙摆处多层褶皱与蕾丝花边拼接，质地轻薄飘逸，尽显甜美清新气质。",
+      "confidence": 0.85
+    },
+    "wears": 54,
+    "idle_days": 34,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb90a06k9h5igjp20000000006kvgm3i.jpg"
+  },
+  {
+    "sku_id": "6a4ba00682e319001511f134",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "旗袍连衣裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "九分",
+      "style": "复古",
+      "material": "其他",
+      "pattern": "印花",
+      "description": "立领盘扣旗袍式连衣裙，短袖修身版型，裙摆开衩，渐变粉色缎面质地饰以仙鹤花卉暗纹，尽显东方优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 15,
+    "idle_days": 7,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb90a0mk9h5igjp20000000004pdqb76.jpg"
+  },
+  {
+    "sku_id": "6a4ba03f08577100019e0c3c",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色水洗牛仔裤，高腰设计，宽松直筒版型，前后经典五袋款式，做旧磨白效果自然，休闲百搭。",
+      "confidence": 0.92
+    },
+    "wears": 56,
+    "idle_days": 90,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adonb9nu06k9h5igjp20000000002tj2co4.jpg"
+  },
+  {
+    "sku_id": "6a4bb0b98634e50001c46434",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "雪纺衫"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "白色荷叶边领口无袖上衣，圆领处及袖口饰有层叠荷叶边，宽松直筒版型，面料轻薄透气，整体清新甜美带有淑女气质。",
+      "confidence": 0.85
+    },
+    "wears": 56,
+    "idle_days": 126,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoo8ana06k9h5igjp20000000005t026fm.jpg"
+  },
+  {
+    "sku_id": "6a4bc28df1fe0f00157b3f4e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "阔腿裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色牛仔阔腿裤，松紧高腰设计带褶皱细节，前侧斜插口袋，裤腿宽松垂坠，整体风格慵懒休闲。",
+      "confidence": 0.85
+    },
+    "wears": 56,
+    "idle_days": 24,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoocjg206k9h5igjp20000000001uo2m5u.jpg"
+  },
+  {
+    "sku_id": "6a4be34cd9bb89001585e379",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "休闲裤"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "格纹",
+      "description": "米白色高腰阔腿长裤，全身菱形几何提花纹理，前有斜插口袋，直筒宽松版型，面料厚实垂坠，风格简约休闲。",
+      "confidence": 0.85
+    },
+    "wears": 1,
+    "idle_days": 7,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adooganke6k9h5igjp20000000007f6hp68.jpg"
+  },
+  {
+    "sku_id": "6a4be6b0f1fe0f00157c75d9",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "复古",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰设计的深蓝色牛仔喇叭裤，修身裤腰搭配自然做旧水洗效果，前身多条纵向分割拼接线，裤脚自膝盖以下逐渐展开呈大喇叭型，展现复古摩登气质。",
+      "confidence": 0.9
+    },
+    "wears": 31,
+    "idle_days": 131,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adooim7a06k9h5igjp20000000003ch96ua.jpg"
+  },
+  {
+    "sku_id": "6a4bf2376ae1ce00019bc632",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色高腰修身牛仔长裤，紧身铅笔型裤腿，前后配经典口袋与金属纽扣拉链设计，水洗质感展现休闲百搭气质。",
+      "confidence": 0.92
+    },
+    "wears": 44,
+    "idle_days": 147,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adooivga06k9h5igjp200000000006hlk32.jpg"
+  },
+  {
+    "sku_id": "6a4bf4f946a14a001545a16a",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米白色高腰蛋糕裙，多层碎褶设计，裙摆层叠蓬松，下摆点缀白色蕾丝花边，面料轻盈带细条纹肌理，甜美俏皮风格。",
+      "confidence": 0.9
+    },
+    "wears": 30,
+    "idle_days": 94,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adop1mga06k9h5igjp20000000007t2lsmm.jpg"
+  },
+  {
+    "sku_id": "6a4bfac058b956000195248e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "宝蓝色修身牛仔长裤，高腰设计，前门襟金属纽扣搭配拉链，五袋式经典版型，裤脚收窄贴腿，面料带弹力显瘦，整体简约百搭。",
+      "confidence": 0.92
+    },
+    "wears": 7,
+    "idle_days": 87,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adopaq0a06k9h5igjp20000000003jv2f32.jpg"
+  },
+  {
+    "sku_id": "6a4c072fa9e8d3000130f99a",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "米白色直筒牛仔长裤，高腰设计，前后配经典五袋款式，裤脚微卷边处理，做旧金属纽扣与铆钉点缀，版型合身，休闲百搭。",
+      "confidence": 0.9
+    },
+    "wears": 12,
+    "idle_days": 61,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adopg9na06k9h5igjp20000000004gapcb0.jpg"
+  },
+  {
+    "sku_id": "6a4c13314ffccd00158558bf",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰直筒宽松牛仔裤，深黑色调，前有立体斜插口袋与银色纽扣装饰，裤腿宽阔垂坠，面料厚实挺括，简约休闲风格。",
+      "confidence": 0.9
+    },
+    "wears": 52,
+    "idle_days": 19,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adopgenk06k9h5igjp20000000003kfhtoq.jpg"
+  },
+  {
+    "sku_id": "6a4c4d71a9e8d30001338568",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "度假",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色细肩带吊带连衣裙，收腰设计搭配多层塔裙式下摆，面料轻薄垂坠，整体简约飘逸，适合夏日度假风穿搭。",
+      "confidence": 0.9
+    },
+    "wears": 53,
+    "idle_days": 113,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adopk40206k9h5igjp200000000069np3kk.jpg"
+  },
+  {
+    "sku_id": "6a4c563cab3c850015e1a18c",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "拼色",
+      "description": "牛仔蓝细吊带连衣裙，方领设计，腰间斜向流苏拼接装饰，裙摆及下摆边缘缀有毛边流苏，A字版型自然垂坠，休闲随性中带点度假气息。",
+      "confidence": 0.9
+    },
+    "wears": 25,
+    "idle_days": 139,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adopoh0206k9h5igjp20000000002db53ps.jpg"
+  },
+  {
+    "sku_id": "6a4c75a10857710001ac5071",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "粉色圆领无袖连衣裙，上身合身收腰，下摆多层褶皱设计呈伞形展开，面料柔软垂坠，整体风格清新甜美。",
+      "confidence": 0.9
+    },
+    "wears": 16,
+    "idle_days": 55,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoq2r7u06k9h5igjp20000000001vctmk8.jpg"
+  },
+  {
+    "sku_id": "6a4c9850c0b0790015626c03",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "简约",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "灰色高腰A字长半身裙，松紧腰头设计，裙摆自然垂坠呈大摆造型，面料柔软有弹性，简约百搭风格。",
+      "confidence": 0.9
+    },
+    "wears": 16,
+    "idle_days": 79,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoqapnk06k9h5igjp20000000003klq9ha.jpg"
+  },
+  {
+    "sku_id": "6a4c9ce6a545700015205ef9",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "度假",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "细吊带设计搭配圆领，收腰后接大摆裙身，玫红色泼溅裙摆自然垂坠，面料柔软亲肤，整体宽松飘逸，尽显夏日度假气息。",
+      "confidence": 0.9
+    },
+    "wears": 1,
+    "idle_days": 5,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoqfc7u06k9h5igjp20000000000t13uei.jpg"
+  },
+  {
+    "sku_id": "6a4ca51d55f46a0001faea0b",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "白",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "九分",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "简约白色商务衬衫，翻领设计搭配单排纽扣，长袖修身版型，衣身平整挺括，面料轻薄透气，尽显干练利落的职场气质。",
+      "confidence": 0.92
+    },
+    "wears": 33,
+    "idle_days": 34,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoqig7a06k9h5igjp200000000074rh2kc.jpg"
+  },
+  {
+    "sku_id": "6a4ca7d58cb63f000198039d",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "红",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "圆领无袖直筒连衣裙，酒红色纯色设计，版型修身贴合，裙摆简洁利落，面料柔软有弹性，整体风格简约百搭。",
+      "confidence": 0.9
+    },
+    "wears": 22,
+    "idle_days": 34,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoqopnke6k9h5igjp20000000007epfaam.jpg"
+  },
+  {
+    "sku_id": "6a4ca8d816b37a0015354c35",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "灰色高腰百褶半身裙，A字廓形，规律竖向褶裥设计，裙摆微微展开，面料挺括有型，简约清爽，青春学院风十足。",
+      "confidence": 0.92
+    },
+    "wears": 31,
+    "idle_days": 26,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoqvv0a06k9h5igjp20000000001jrhd7k.jpg"
+  },
+  {
+    "sku_id": "6a4caf18f764ee000120699e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "复古",
+      "material": "棉",
+      "pattern": "波点",
+      "description": "米白色高腰松紧腰半身裙，通身黑色波点点缀，裙摆开衩设计，A字版型垂坠自然，面料略带麻质纹理，简约中带复古气息。",
+      "confidence": 0.9
+    },
+    "wears": 49,
+    "idle_days": 110,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323ador48ga06k9h5igjp20000000004135rd6.jpg"
+  },
+  {
+    "sku_id": "6a4caffa58b9560001a4981b",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "蓝",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "九分",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "藏青色直筒半身裙，松紧高腰设计，前片带竖向刀缝装饰线，裙长及膝下，面料挺括垂顺，简约利落，适合职场通勤穿着。",
+      "confidence": 0.85
+    },
+    "wears": 16,
+    "idle_days": 46,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323ador6p7k06k9h5igjp2000000000134h2c4.jpg"
+  },
+  {
+    "sku_id": "6a4cb2e20857710001b423a0",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "九分",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色高腰包臀半身裙，版型修身合体，前身设计有立体收腰省道，裙摆过膝，面料挺括有垂坠感，简约干练适合职场穿着。",
+      "confidence": 0.9
+    },
+    "wears": 39,
+    "idle_days": 141,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoreo7k06k9h5igjp20000000006ptrh9u.jpg"
+  },
+  {
+    "sku_id": "6a4cc039e3af990015ac39be",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "七分袖",
+      "length": "短",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米白色纯棉连衣裙，立领系带设计缀流苏，泡泡七分袖，胸前及袖口镂空蕾丝拼接，腰间配细皮带，下摆多层褶皱蓬松，甜美温柔气质。",
+      "confidence": 0.85
+    },
+    "wears": 21,
+    "idle_days": 35,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoria0a06k9h5igjp20000000003mjevgq.jpg"
+  },
+  {
+    "sku_id": "6a4cc2354ffccd0015985fcd",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "浅粉色缎面连衣裙，配同色系披肩式娃娃领斗篷，领口缀蕾丝花边与蝴蝶结，腰侧饰绑带装饰，裙摆蓬大，下摆拼接米白色蕾丝纱边，整体甜美优雅。",
+      "confidence": 0.85
+    },
+    "wears": 25,
+    "idle_days": 84,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adorq27a06k9h5igjp20000000002n5jp54.jpg"
+  },
+  {
+    "sku_id": "6a4d6ee84ffccd00159cecfb",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰直筒阔腿牛仔裤，浅蓝色水洗做旧质感，前后设计有对称口袋与金属纽扣，版型宽松垂坠，休闲百搭。",
+      "confidence": 0.92
+    },
+    "wears": 56,
+    "idle_days": 9,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adorscna06k9h5igjp20000000002bhr78m.jpg"
+  },
+  {
+    "sku_id": "6a4d7278a553c300150a9109",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "度假",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "米白色挂脖连衣裙，细肩带高领设计，收腰抽褶配松紧腰带，下摆自然垂坠呈A字廓形，面料轻薄柔软，展现优雅休闲的度假气质。",
+      "confidence": 0.88
+    },
+    "wears": 21,
+    "idle_days": 86,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323ados1onk06k9h5igjp20000000006vm7f4a.jpg"
+  },
+  {
+    "sku_id": "6a4d74d5c875390015cb04ee",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "凉鞋"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "甜美",
+      "material": "皮革",
+      "pattern": "拼色",
+      "description": "黑色细带凉鞋，圆头设计搭配脚背交叉细带与踝带扣合，鞋面点缀银色蝴蝶装饰扣，粗跟稳重，皮质光滑，风格甜美精致。",
+      "confidence": 0.9
+    },
+    "wears": 23,
+    "idle_days": 43,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323ados5o0as6k9h5igjp200000000036njfqa.jpg"
+  },
+  {
+    "sku_id": "6a4d79534382e20001aab7f0",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "开衫外套"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "复古",
+      "material": "雪纺",
+      "pattern": "印花",
+      "description": "米黄色雪纺开衫，V领系带设计，喇叭大袖口，衣身缀满小花刺绣，下摆自然垂坠呈不规则波浪，飘逸浪漫又不失甜美复古气质。",
+      "confidence": 0.85
+    },
+    "wears": 47,
+    "idle_days": 26,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323ados927k06k9h5igjp200000000058347ea.jpg"
+  },
+  {
+    "sku_id": "6a4d8fda81cd0b0001014eb9",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "长袖",
+      "length": "短",
+      "style": "优雅",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "一字领设计搭配大喇叭袖，腰腹及裙身满布细密褶皱堆叠，收腰包臀版型，米白色针织面料垂坠贴身，尽显性感优雅气质。",
+      "confidence": 0.85
+    },
+    "wears": 52,
+    "idle_days": 130,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adostrg206k9h5igjp20000000004f6jkk4.jpg"
+  },
+  {
+    "sku_id": "6a4d91cdc0b0790015bafe46",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "尖头鞋"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "裸粉色漆皮尖头鞋，细高跟设计搭配后空弹力带式一字带，整体线条流畅，尽显女性优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 8,
+    "idle_days": 140,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adot3rna06k9h5igjp20000000007sqk8jm.jpg"
+  },
+  {
+    "sku_id": "6a4d978d79e410001578dc32",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "高跟凉鞋"
+      },
+      "color": "棕驼",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "玫瑰金色镜面漆皮细高跟凉鞋，一字脚背带搭配交叉绕踝设计，露趾鱼嘴造型，细跟纤细优雅，整体质感闪亮时尚。",
+      "confidence": 0.92
+    },
+    "wears": 15,
+    "idle_days": 15,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adot7j0206k9h5igjp20000000004tgb2is.jpg"
+  },
+  {
+    "sku_id": "6a4d9db5a553c300150b2f40",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "复古",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰喇叭牛仔裤，宽松阔腿版型，做旧水洗蓝色调，前后经典五袋设计，裤脚微微外扩，面料厚实挺括，透出复古休闲气息。",
+      "confidence": 0.92
+    },
+    "wears": 20,
+    "idle_days": 96,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adot7k7a06k9h5igjp20000000002ki3r9a.jpg"
+  },
+  {
+    "sku_id": "6a4da229373bed0015eacbb2",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "九分",
+      "style": "甜美",
+      "material": "其他",
+      "pattern": "拼色",
+      "description": "黑白拼色连衣裙，V领设计，白色泡泡短袖，胸前点缀珍珠花朵装饰，腰间系白色抽绳蝴蝶结，裙摆开衩，修身版型尽显优雅甜美气质。",
+      "confidence": 0.85
+    },
+    "wears": 28,
+    "idle_days": 120,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adota70206k9h5igjp20000000004smq8b0.jpg"
+  },
+  {
+    "sku_id": "6a4daa0c5705e10001fc24dd",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "背心"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "五分",
+      "style": "复古",
+      "material": "棉",
+      "pattern": "印花",
+      "description": "白色圆领无袖背心，黑色罗纹领口与袖口拼边，胸前印有红色复古花体英文字母及圆形徽章图案，版型宽松，休闲运动风十足。",
+      "confidence": 0.9
+    },
+    "wears": 53,
+    "idle_days": 80,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adotjf7u06k9h5igjp200000000022jg6v2.jpg"
+  },
+  {
+    "sku_id": "6a4dae139a18cb00158cc5f0",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "运动鞋"
+      },
+      "color": "白",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "全白色厚底系带运动鞋，圆头设计，鞋面简约无过多装饰，配有粗白色扁鞋带，厚实的增高底加压花纹路，整体风格简约百搭。",
+      "confidence": 0.9
+    },
+    "wears": 13,
+    "idle_days": 18,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adots37a06k9h5igjp20000000006n78lui.jpg"
+  },
+  {
+    "sku_id": "6a4daf044382e20001ad517c",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "短靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "简约",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "黑色方头短靴，弹力面料贴合脚踝，简洁高筒设计，搭配棕色木纹粗跟，整体线条利落，尽显简约优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 24,
+    "idle_days": 69,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adotvs7a06k9h5igjp200000000031938j8.jpg"
+  },
+  {
+    "sku_id": "6a4dbfe18634e50001680882",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "黑色直筒牛仔裤，高腰设计，正面双侧斜插口袋与小零钱袋，金属铆钉装饰，裤腿宽松挺括，版型简约百搭，面料厚实有质感。",
+      "confidence": 0.9
+    },
+    "wears": 51,
+    "idle_days": 22,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adou757u06k9h5igjp20000000000bllqfs.jpg"
+  },
+  {
+    "sku_id": "6a4dbfeb81cd0b0001053389",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "红",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "度假",
+      "material": "其他",
+      "pattern": "印花",
+      "description": "红色系碎花印花长款连衣裙，V领无袖设计，A字廓形宽松飘逸，裙摆自然垂坠，面料轻薄透气，尽显浪漫度假风情。",
+      "confidence": 0.85
+    },
+    "wears": 7,
+    "idle_days": 52,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoubb7u06k9h5igjp2000000000471bt4a.jpg"
+  },
+  {
+    "sku_id": "6a4dc597c875390015ccc7a1",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "优雅",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色无袖连衣裙，方形领口，细肩带设计，腰部自然褶皱塑形，裙身修身贴合至小腿长度，面料垂坠顺滑，整体简约优雅。",
+      "confidence": 0.85
+    },
+    "wears": 24,
+    "idle_days": 9,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoufbnk06k9h5igjp2000000000100khsi.jpg"
+  },
+  {
+    "sku_id": "6a4dd2c01f5d30000171f8cc",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "红",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "五分",
+      "style": "优雅",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "酒红色高腰A字半身裙，宽腰头设计修饰腰线，裙摆自然蓬松呈伞状散开，两侧隐藏式口袋兼具实用与简约感，面料厚实垂坠有质感，整体气质优雅温柔。",
+      "confidence": 0.9
+    },
+    "wears": 8,
+    "idle_days": 145,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adoumbnu06k9h5igjp20000000005jiahui.jpg"
+  },
+  {
+    "sku_id": "6a4dd31e11d5490001a7da80",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "玛丽珍鞋"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "复古",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "黑色圆头玛丽珍鞋，鞋面覆盖细窄搭扣绑带，银色金属扣环点缀，厚底设计增加高度，皮质光泽感强，整体简约复古又不失个性。",
+      "confidence": 0.92
+    },
+    "wears": 43,
+    "idle_days": 86,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adouv8nu06k9h5igjp20000000007nr67la.jpg"
+  },
+  {
+    "sku_id": "6a4dd93b4ffccd00159f163e",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "高跟鞋"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "尖头细高跟单鞋，黑色漆皮质感光泽亮丽，脚踝处配一字细带与金属搭扣，红色鞋底点缀，整体造型简约优雅、性感修身。",
+      "confidence": 0.95
+    },
+    "wears": 19,
+    "idle_days": 17,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adov0enk06k9h5igjp20000000001hiod2a.jpg"
+  },
+  {
+    "sku_id": "6a4ddbc7d09fb6000112be57",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "人字拖"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "防水"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "度假",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "粉色人字拖鞋，鞋面为编织纹理的玫瑰金色人字带，脚背处印有品牌字母标识，鞋底厚实柔软呈粉色，整体清新休闲适合夏日海边穿着。",
+      "confidence": 0.9
+    },
+    "wears": 50,
+    "idle_days": 116,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adov48nk06k9h5igjp200000000017qgmu0.jpg"
+  },
+  {
+    "sku_id": "6a4ddc6d8a297b0001a9a239",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "复古",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰设计搭配双排纽扣装饰，修身版型至膝下渐展呈喇叭裤型，黑色纯色牛仔面料挺括有型，展现复古摩登气质。",
+      "confidence": 0.92
+    },
+    "wears": 11,
+    "idle_days": 69,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adov51nu06k9h5igjp200000000074p59fm.jpg"
+  },
+  {
+    "sku_id": "6a4de0efa553c300150ccce7",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "平底鞋"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "拼色",
+      "description": "尖头浅口平底鞋，裸色漆皮质感光泽面料，鞋口边缘镶嵌一圈闪耀水钻装饰，造型简约优雅，透出精致甜美的女性气质。",
+      "confidence": 0.9
+    },
+    "wears": 22,
+    "idle_days": 28,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adov9lga06k9h5igjp20000000006rlrgq2.jpg"
+  },
+  {
+    "sku_id": "6a4de7934ffccd00159f7d5e",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "粉色雪纺连衣裙，方领设计，泡泡短袖搭配花边袖口，领口与腰部缀满珍珠装饰，收腰设计凸显身形，下摆为多层不规则荷叶边褶皱裙摆，飘逸浪漫，尽显甜美优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 56,
+    "idle_days": 4,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adovjk0a06k9h5igjp20000000000oimrre.jpg"
+  },
+  {
+    "sku_id": "6a4df141f99fca00013088c3",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "切尔西靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "简约",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "圆头切尔西靴，黑色皮革质感光滑，侧面弹力松紧带设计便于穿脱，靴筒后方配有拉环，厚底粗纹设计增添街头休闲气息。",
+      "confidence": 0.92
+    },
+    "wears": 33,
+    "idle_days": 18,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adovvn7k76k9h5igjp20000000005cle5e6.jpg"
+  },
+  {
+    "sku_id": "6a4e00cc33a5710001df49f3",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "卫衣"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "oversize",
+      "sleeve": "长袖",
+      "length": "九分",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "印花",
+      "description": "圆领落肩宽松卫衣，黑色为底，胸前印有米白色叠石抽象图案，罗纹领口袖口下摆，版型宽大oversize，风格简约随性。",
+      "confidence": 0.9
+    },
+    "wears": 5,
+    "idle_days": 7,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp00ug206k9h5igjp20000000005lu6pr6.jpg"
+  },
+  {
+    "sku_id": "6a4e059444362a0001810e7d",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "休闲鞋"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "高帮切尔西风格休闲鞋，圆头设计，绑带式系带配金属扣眼，麂皮质感面料，厚实白色橡胶厚底，整体米卡其色调简约百搭。",
+      "confidence": 0.85
+    },
+    "wears": 16,
+    "idle_days": 24,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp05hna06k9h5igjp20000000001nbblh2.jpg"
+  },
+  {
+    "sku_id": "6a4e06f2f99fca000134e790",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "帆布鞋"
+      },
+      "color": "红",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "复古",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "经典高帮帆布鞋，酒红色帆布鞋面搭配白色系带与橡胶鞋头，侧面饰有圆形Converse All Star徽章，白色橡胶鞋底厚实，整体复古休闲。",
+      "confidence": 0.95
+    },
+    "wears": 45,
+    "idle_days": 15,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp0787u06k9h5igjp20000000000melit4.jpg"
+  },
+  {
+    "sku_id": "6a4e0df9eb8eff0015ca8354",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "单鞋"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "甜美",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "圆头粗跟一字带鞋，鞋面饰蝴蝶结与褶皱设计，粉色皮革质感柔和，搭配黑色低粗跟，甜美优雅又不失日常实穿性。",
+      "confidence": 0.9
+    },
+    "wears": 22,
+    "idle_days": 82,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp0a50a06k9h5igjp20000000001kijfg4.jpg"
+  },
+  {
+    "sku_id": "6a4e0e8c8634e5000174e1b2",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "靴子"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "五分",
+      "style": "休闲",
+      "material": "皮革",
+      "pattern": "拼色",
+      "description": "中筒骑士靴，棕色皮革与米白色帆布拼接设计，侧面装饰金属扣带，圆头造型搭配粗跟厚底，整体休闲复古气质十足。",
+      "confidence": 0.9
+    },
+    "wears": 52,
+    "idle_days": 134,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp0jv7k06k9h5igjp20000000005b1o1dg.jpg"
+  },
+  {
+    "sku_id": "6a4e178a404fe700015968c4",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "黄",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "优雅",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "抹胸露肩设计，腰腹处细密褶皱塑形，修身包臀裙身，前侧高开衩，黄色针织弹力面料，尽显优雅性感的晚礼服气质。",
+      "confidence": 0.9
+    },
+    "wears": 21,
+    "idle_days": 7,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp0rfga06k9h5igjp20000000001l1smsa.jpg"
+  },
+  {
+    "sku_id": "6a4e1818fe4ff50015230515",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "坡跟凉鞋"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "度假",
+      "material": "其他",
+      "pattern": "拼色",
+      "description": "米白色坡跟凉鞋，脚背处为交叉设计的宽带，镶嵌金银色亮片装饰，搭配细带脚踝扣带，编织纹坡跟厚底，整体气质休闲又不失精致。",
+      "confidence": 0.85
+    },
+    "wears": 16,
+    "idle_days": 86,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp15rnu06k9h5igjp20000000000rmoj54.jpg"
+  },
+  {
+    "sku_id": "6a4e3224e3af990015b51a0a",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔短裤"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "白色高腰牛仔短裤，双前袋设计，双扣门襟，裤脚采用毛边破洞处理，版型合身，清新休闲风格十足。",
+      "confidence": 0.92
+    },
+    "wears": 52,
+    "idle_days": 42,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp18h7k06k9h5igjp200000000074bqvqc.jpg"
+  },
+  {
+    "sku_id": "6a4e32d740226b0001608a61",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "灰黑色高腰修身牛仔裤，直筒微锥形裤型，前有斜插口袋，裤脚做旧毛边处理，做旧水洗质感，风格简约百搭。",
+      "confidence": 0.9
+    },
+    "wears": 52,
+    "idle_days": 43,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp195g206k9h5igjp20000000004ksdf7q.jpg"
+  },
+  {
+    "sku_id": "6a4e359d74c28600018ed8d7",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "灰",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "短袖",
+      "length": "长",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "圆领短袖纯灰色T恤连衣裙，宽松直筒版型，下摆两侧开衩设计，棉质面料柔软舒适，整体风格简约休闲。",
+      "confidence": 0.9
+    },
+    "wears": 27,
+    "idle_days": 145,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp1ma7k06k9h5igjp20000000007q8hol8.jpg"
+  },
+  {
+    "sku_id": "6a4e691f4ab6d30015482d86",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "运动鞋"
+      },
+      "color": "白",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "运动",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "运动",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "白色系带运动鞋，网面与皮革拼接设计，圆头造型，白色鞋带交叉系带，黑色齿纹厚底，整体简约清爽，透气舒适。",
+      "confidence": 0.92
+    },
+    "wears": 51,
+    "idle_days": 48,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp1pg7k06k9h5igjp20000000004mjkav0.jpg"
+  },
+  {
+    "sku_id": "6a4e7ffa4034b80001663f8a",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "西部靴"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "五分",
+      "style": "复古",
+      "material": "皮革",
+      "pattern": "印花",
+      "description": "米卡其色麂皮西部风中筒靴，圆头设计，靴筒饰以镂空雕花卷草纹样，低粗跟深棕色鞋底，整体复古典雅又不失休闲气息。",
+      "confidence": 0.85
+    },
+    "wears": 57,
+    "idle_days": 2,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp1pp7a06k9h5igjp20000000004no6bbu.jpg"
+  },
+  {
+    "sku_id": "6a4e83b081cd0b00011aa774",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "芭蕾平底鞋"
+      },
+      "color": "未知",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "甜美",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "银色金属光泽芭蕾平底鞋，方头设计，鞋面饰有交叉珍珠铆钉绑带并系有俏皮蝴蝶结，鞋身褶皱细节增添柔美质感，整体甜美精致。",
+      "confidence": 0.9
+    },
+    "wears": 18,
+    "idle_days": 116,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp240g206k9h5igjp2000000000133p828.jpg"
+  },
+  {
+    "sku_id": "6a4e846240226b000164858f",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "乐福鞋"
+      },
+      "color": "棕驼",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "复古",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "一双深棕色皮质乐福鞋，圆头设计，鞋面装饰经典马衔扣式绑带，光滑皮革质感带有自然光泽，厚实黑色橡胶大底，整体造型简约复古又不失商务气质。",
+      "confidence": 0.92
+    },
+    "wears": 32,
+    "idle_days": 144,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp2el0a06k9h5igjp20000000007ah2hj4.jpg"
+  },
+  {
+    "sku_id": "6a4e85cbd36a810001bd9625",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "皮鞋"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "通勤",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "米白色方头浅口单鞋，粗跟设计稳重舒适，鞋身线条简洁圆润，皮质光泽细腻，整体风格干练优雅，适合职场通勤穿搭。",
+      "confidence": 0.92
+    },
+    "wears": 12,
+    "idle_days": 25,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp2eknk06k9h5igjp20000000000ck4e56.jpg"
+  },
+  {
+    "sku_id": "6a4e951a4cc8690015745f01",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "束脚裤"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "运动",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "运动",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "灰色束脚运动裤，松紧抽绳腰头，斜插口袋加右侧拉链小口袋，裤腿宽松直筒，裤脚罗纹收紧，面料挺括有垂坠感，整体休闲运动风格。",
+      "confidence": 0.88
+    },
+    "wears": 33,
+    "idle_days": 52,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp2vhg206k9h5igjp200000000037ede7e.jpg"
+  },
+  {
+    "sku_id": "6a4e9a468634e500017f8b2e",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "长袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "黑色修身针织连衣裙，白色POLO翻领搭配三粒纽扣设计，长袖收身版型，罗纹面料质感，简约中带点休闲运动风。",
+      "confidence": 0.88
+    },
+    "wears": 60,
+    "idle_days": 63,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp30ega06k9h5igjp20000000000ga0h92.jpg"
+  },
+  {
+    "sku_id": "6a4ea6faaa62b50001970280",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色牛仔吊带连衣裙，方领细肩带，前襟单排纽扣设计，腰间配同色系布腰带打结，两侧贴袋点缀，A字裙摆，休闲百搭又不失清新气质。",
+      "confidence": 0.92
+    },
+    "wears": 7,
+    "idle_days": 108,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp32u0a06k9h5igjp20000000007k9oe8o.jpg"
+  },
+  {
+    "sku_id": "6a4eac1c4cc8690015751c5a",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "圆领无袖连衣裙，收腰设计搭配腰间分割拼接，裙摆呈自然褶皱大摆造型，粉色纯棉面料质感清爽，整体甜美优雅气质十足。",
+      "confidence": 0.9
+    },
+    "wears": 11,
+    "idle_days": 36,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp3787u06k9h5igjp20000000002n2e9ni.jpg"
+  },
+  {
+    "sku_id": "6a4ebb4391380100153ee1b8",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "平底鞋"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "甜美",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "浅粉色缎面玛丽珍平底鞋，圆头设计带褶皱细节，鞋面装饰精致蝴蝶结与细窄搭扣绑带，甜美优雅气质浓郁。",
+      "confidence": 0.9
+    },
+    "wears": 12,
+    "idle_days": 79,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp3bdnk06k9h5igjp2000000000192ul80.jpg"
+  },
+  {
+    "sku_id": "6a4ebe028634e500018199f8",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "运动",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "运动",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "白色高腰百褶网球裙，裙身规则褶皱蓬松飘逸，侧面开衩设计便于活动，面料光滑挺括，简约清新兼具运动活力感。",
+      "confidence": 0.9
+    },
+    "wears": 35,
+    "idle_days": 7,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp3e5g206k9h5igjp2000000000703bbia.jpg"
+  },
+  {
+    "sku_id": "6a4edff8404fe7000165234e",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "过膝靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "街头",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色绒面过膝长靴，圆头厚底设计，靴筒侧面点缀四颗金色纽扣装饰，简约中带有几分个性酷感。",
+      "confidence": 0.9
+    },
+    "wears": 44,
+    "idle_days": 32,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp3uh0a06k9h5igjp20000000001vkp3sm.jpg"
+  },
+  {
+    "sku_id": "6a4ef180c875390015d3b835",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "凉靴"
+      },
+      "color": "棕驼",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "皮革",
+      "pattern": "其他",
+      "description": "麂皮质感棕驼色露趾凉靴，靴筒饰满镂空冲孔花纹，侧边配金属扣带装饰，前脚掌为一字型开口设计，搭配矮跟平底，兼具凉鞋透气与靴子造型感。",
+      "confidence": 0.85
+    },
+    "wears": 50,
+    "idle_days": 70,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp3v57k06k9h5igjp200000000005pa9ei.jpg"
+  },
+  {
+    "sku_id": "6a4f35198a297b0001c7f552",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "休闲鞋"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "复古",
+      "material": "皮革",
+      "pattern": "拼色",
+      "description": "米白色系带休闲鞋，鞋头拼接绒面革，鞋身饰绿色条纹与棕色皮革后跟贴片，配厚实焦糖色橡胶大底，复古运动风十足。",
+      "confidence": 0.9
+    },
+    "wears": 60,
+    "idle_days": 109,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp41g7k06k9h5igjp20000000005drklfm.jpg"
+  },
+  {
+    "sku_id": "6a4f4100aa62b50001a2d305",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "穆勒鞋"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "黑色漆皮尖头穆勒坡跟鞋，鞋面镶嵌水钻圆形装饰扣带，楔形高跟设计，光泽感十足，尽显优雅精致气质。",
+      "confidence": 0.92
+    },
+    "wears": 58,
+    "idle_days": 98,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp4577k06k9h5igjp20000000007u3c18g.jpg"
+  },
+  {
+    "sku_id": "6a4f47538a78380015ae702a",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "玛丽珍鞋"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "甜美",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "粉色漆皮玛丽珍鞋，圆头设计搭配鞋面蝴蝶结与后跟小蝴蝶结装饰，一字搭扣绑带，粗跟中跟，甜美可爱又不失优雅气质。",
+      "confidence": 0.92
+    },
+    "wears": 2,
+    "idle_days": 61,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp491nk06k9h5igjp20000000003u21kja.jpg"
+  },
+  {
+    "sku_id": "6a4f4a9aa9e8d300013231b1",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "背心"
+      },
+      "color": "红",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "简约",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "红色紧身细肩带背心，方形领口，短款设计露腰，弹力针织面料贴合身形，简约百搭适合夏季搭配。",
+      "confidence": 0.92
+    },
+    "wears": 58,
+    "idle_days": 97,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp4ad0206k9h5igjp20000000000rk5ngk.jpg"
+  },
+  {
+    "sku_id": "6a4f54488a297b0001cbebc5",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装外套"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米卡其色无袖西装式风衣马甲，翻驳领设计，前襟不对称叠搭，腰间配同色布腰带与金属方扣，下摆微展，面料挺括，整体简约干练又不失优雅。",
+      "confidence": 0.92
+    },
+    "wears": 44,
+    "idle_days": 113,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp4qbna06k9h5igjp200000000070827ia.jpg"
+  },
+  {
+    "sku_id": "6a4f6b7bd528ea0015ca4225",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "高帮靴"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "防风"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "拼色",
+      "description": "米卡其色高帮系带靴，撞色深棕条纹与鞋头拼接，粗犷绑带搭配厚底防滑大底，帆布与磨砂皮质拼接，休闲耐穿又不失个性。",
+      "confidence": 0.85
+    },
+    "wears": 21,
+    "idle_days": 124,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp4v4g20mk9h5igjp20000000005dpbir0.jpg"
+  },
+  {
+    "sku_id": "6a4f6c734ab6d300154f6df2",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "马丁靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "街头",
+      "material": "皮革",
+      "pattern": "拼色",
+      "description": "黑色厚底马丁靴，圆头设计，多孔系带搭配银色装饰扣带与金属链条点缀，侧拉链方便穿脱，厚实齿纹大底彰显硬朗街头个性风格。",
+      "confidence": 0.92
+    },
+    "wears": 0,
+    "idle_days": 72,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp4v5nu06k9h5igjp2000000000429dcbi.jpg"
+  },
+  {
+    "sku_id": "6a4f6e74f99fca0001542dd2",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "背带裙"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "米白色牛仔背带连衣裙，方领宽肩带设计搭配金属扣，胸前贴袋分割明线装饰，A字廓形宽松版型，中长裙摆，休闲简约风格。",
+      "confidence": 0.85
+    },
+    "wears": 60,
+    "idle_days": 96,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp54lna06k9h5igjp20000000002ka4p4c.jpg"
+  },
+  {
+    "sku_id": "6a4f714eaa62b50001a9967b",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "帆布鞋"
+      },
+      "color": "红",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "经典低帮帆布鞋，圆头设计搭配白色橡胶鞋头与鞋底，红色帆布鞋面配白色鞋带，黑白相间条纹镶边，休闲百搭。",
+      "confidence": 0.92
+    },
+    "wears": 42,
+    "idle_days": 89,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp5c9nk06k9h5igjp20000000005g6c6s6.jpg"
+  },
+  {
+    "sku_id": "6a4f847933a57100010213b1",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "衬衫连衣裙"
+      },
+      "color": "白",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色衬衫式连衣裙，翻领单排扣设计，泡泡短袖收口克夫，腰间配黑色细腰带点缀金属扣，裙摆自然打褶呈A字廓形，面料挺括简约优雅。",
+      "confidence": 0.85
+    },
+    "wears": 34,
+    "idle_days": 47,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp5cg7u06k9h5igjp200000000003ifnoe.jpg"
+  },
+  {
+    "sku_id": "6a4fb0c274c2860001ac0c8c",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "藏青色短袖衬衫，翻领设计，前襟单排纽扣closure，版型合身，面料轻薄透气，简约百搭，适合日常休闲穿着。",
+      "confidence": 0.92
+    },
+    "wears": 2,
+    "idle_days": 30,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp5qank06k9h5igjp2000000000206trvq.jpg"
+  },
+  {
+    "sku_id": "6a4fcc30be1ced0015a69b4d",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "西装裤"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "灰色高腰阔腿西装裤，双侧打褶设计，配腰带扣与斜插口袋，裤型宽松挺括，面料质感细腻，简约利落，通勤休闲皆宜。",
+      "confidence": 0.85
+    },
+    "wears": 4,
+    "idle_days": 11,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp60a7k06k9h5igjp20000000003qd4m3o.jpg"
+  },
+  {
+    "sku_id": "6a50261516b37a0015e1c143",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "印花",
+      "description": "碎花雪纺半身裙，高腰设计，裙身分层叠搭呈A字廓形，米粉底色点缀细碎花朵图案，垂坠飘逸，透着甜美温柔的度假气质。",
+      "confidence": 0.87
+    },
+    "wears": 20,
+    "idle_days": 71,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp61lga06k9h5igjp20000000003pe8k1u.jpg"
+  },
+  {
+    "sku_id": "6a502e7e2f72a60015993c72",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "圆领短袖修身T恤，黑色纯色设计，腰侧带自然褶皱堆叠细节，贴合身形凸显曲线，面料柔软有弹性，简约百搭风格。",
+      "confidence": 0.9
+    },
+    "wears": 3,
+    "idle_days": 39,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp6bhnk06k9h5igjp20000000007qc5f5i.jpg"
+  },
+  {
+    "sku_id": "6a502eeb40226b000183957e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔短裤"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "街头",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色水洗牛仔工装短裤，宽松直筒版型，双侧配大号翻盖工装口袋，做旧破洞设计，休闲街头风格十足。",
+      "confidence": 0.9
+    },
+    "wears": 22,
+    "idle_days": 99,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp6eog206k9h5igjp20000000002f0klfs.jpg"
+  },
+  {
+    "sku_id": "6a5060a3aa62b50001b69cdb",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "简约",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "浅蓝色圆领无袖连衣裙，领口细密褶皱设计，A字型宽松版型，裙摆自然垂坠飘逸，面料轻薄柔软，整体风格清新简约。",
+      "confidence": 0.9
+    },
+    "wears": 27,
+    "idle_days": 107,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp6kc0206k9h5igjp200000000075tckd8.jpg"
+  },
+  {
+    "sku_id": "6a5070d240226b000189fc15",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "红",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "复古",
+      "material": "棉",
+      "pattern": "格纹",
+      "description": "红白小格纹翻领衬衫，宽松版型配长袖与圆润下摆，纯色白扣点缀，棉质面料柔软舒适，休闲复古气质十足。",
+      "confidence": 0.92
+    },
+    "wears": 11,
+    "idle_days": 1,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp6rl7u06k9h5igjp20000000003rbkm6a.jpg"
+  },
+  {
+    "sku_id": "6a507cf4964c0f00156a7fd1",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "高跟短靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "正式",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "优雅",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "黑色尖头高跟短靴，弹力针织面料紧贴脚踝，细高跟设计，鞋头饰有方形水钻扣，简约中带着精致优雅气质。",
+      "confidence": 0.85
+    },
+    "wears": 9,
+    "idle_days": 37,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp72tg206k9h5igjp20000000007lr690q.jpg"
+  },
+  {
+    "sku_id": "6a507d638634e50001a4bbf2",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "印花",
+      "description": "米白色系带细肩带连衣裙，胸前抽绳设计，通身点缀蓝色小碎花图案，A字裙摆宽松飘逸，面料轻薄透气，尽显甜美清新的度假风情。",
+      "confidence": 0.9
+    },
+    "wears": 58,
+    "idle_days": 23,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp73unk06k9h5igjp20000000002puem6e.jpg"
+  },
+  {
+    "sku_id": "6a508ce8a9e8d300014b7492",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "连衣裙"
+      },
+      "color": "蓝",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "度假",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "浅蓝色细吊带连衣裙，V领设计，收腰剪裁配大摆A字裙身，垂坠飘逸，面料轻薄柔软，尽显清新度假风情。",
+      "confidence": 0.9
+    },
+    "wears": 14,
+    "idle_days": 33,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp79f7u06k9h5igjp20000000002ct4vpu.jpg"
+  },
+  {
+    "sku_id": "6a5091311f5d300001ad5027",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "白",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "经典白色衬衫，翻领设计，前襟单排纽扣，长袖配袖口纽扣收口，修身合身版型，面料挺括平整，简约干练适合职场穿着。",
+      "confidence": 0.92
+    },
+    "wears": 59,
+    "idle_days": 23,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp7j4g206k9h5igjp20000000003trbv9s.jpg"
+  },
+  {
+    "sku_id": "6a509186691821000105d5fd",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "浅蓝色纯棉衬衫，翻领设计搭配单排白色纽扣，合身版型，长袖收口袖口，衣摆两侧微开衩，简约利落，适合通勤穿着。",
+      "confidence": 0.92
+    },
+    "wears": 58,
+    "idle_days": 128,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp7lnna06k9h5igjp20000000005bbefta.jpg"
+  },
+  {
+    "sku_id": "6a50919d40226b00018ea360",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "七分",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "浅蓝色修身衬衫，翻领设计搭配单排纽扣门襟，收腰剪裁勾勒身形，长袖配简约袖口，面料细腻挺括，展现干练职场气质。",
+      "confidence": 0.92
+    },
+    "wears": 21,
+    "idle_days": 1,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp7uvg206k9h5igjp20000000006ljeq3g.jpg"
+  },
+  {
+    "sku_id": "6a50be51410f520015a4ce46",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "白",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色纯棉长袖衬衫，尖领设计，前襟排扣closure，版型合身简洁，面料挺括平整，适合商务通勤穿着。",
+      "confidence": 0.92
+    },
+    "wears": 21,
+    "idle_days": 83,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp84ig206k9h5igjp20000000003jnmgp6.jpg"
+  },
+  {
+    "sku_id": "6a51205de9f0b10001ba0288",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "休闲裤"
+      },
+      "color": "米卡其",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米白色高腰宽松直筒长裤，配黑色方扣装饰腰带，前有斜插口袋，裤型垂坠利落，简约百搭，面料略带挺括质感。",
+      "confidence": 0.88
+    },
+    "wears": 48,
+    "idle_days": 76,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp84n7k06k9h5igjp200000000050f2nqc.jpg"
+  },
+  {
+    "sku_id": "6a5128ef24f044000126c226",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "灰",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "灰色高腰百褶半身裙，A字版型，整齐竖向褶裥设计，裙摆自然张开，面料挺括，风格简约减龄。",
+      "confidence": 0.9
+    },
+    "wears": 30,
+    "idle_days": 54,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp86n0a06k9h5igjp20000000001jqos9u.jpg"
+  },
+  {
+    "sku_id": "6a51368991380100154ddf1b",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裤裙"
+      },
+      "color": "灰",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "五分",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "灰绿色宽松裙裤，高腰松紧抽绳设计，裤身呈裙摆状散开，侧边斜插口袋，面料轻薄透气，风格休闲随性。",
+      "confidence": 0.85
+    },
+    "wears": 57,
+    "idle_days": 31,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp8kpg206k9h5igjp20000000001fue02o.jpg"
+  },
+  {
+    "sku_id": "6a5159ede371ff0001fb6bbd",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色直筒牛仔裤，高腰设计，五袋款式，裤脚宽松垂直，做旧水洗质感，简约百搭，休闲随性风格。",
+      "confidence": 0.92
+    },
+    "wears": 47,
+    "idle_days": 75,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp8l5na06k9h5igjp200000000047q3g6s.jpg"
+  },
+  {
+    "sku_id": "6a516ccff8b2fa000151aadc",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "中筒靴"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "中筒圆头骑士靴，采用编织纹理面料呈现细密网状质感，靴筒中部饰有金属扣饰皮带扣设计，棕驼色调搭配平底防滑鞋底，整体休闲随性又不失细节感。",
+      "confidence": 0.85
+    },
+    "wears": 55,
+    "idle_days": 17,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp901ga06k9h5igjp200000000062i7k40.jpg"
+  },
+  {
+    "sku_id": "6a516eb06cbefa00016d7c29",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "长靴"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "通勤",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "棕驼色高筒骑士靴，圆头设计，粗跟中高跟，一侧饰金属搭扣，另一侧内置拉链方便穿脱，皮质光滑细腻，整体简约利落，兼具通勤与休闲气质。",
+      "confidence": 0.9
+    },
+    "wears": 17,
+    "idle_days": 141,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp9537u06k9h5igjp20000000004ekdd8g.jpg"
+  },
+  {
+    "sku_id": "6a518740b5de6c0001a66179",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "长袖",
+      "length": "九分",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "浅蓝色修身衬衫，尖领设计，前襟排列白色纽扣，收腰剪裁勾勒身形，面料平整挺括，简约干练适合职场穿着。",
+      "confidence": 0.92
+    },
+    "wears": 15,
+    "idle_days": 40,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp977nu06k9h5igjp200000000067snqr2.jpg"
+  },
+  {
+    "sku_id": "6a51883c71d2490001317e4e",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "衬衫"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "粉色短袖衬衫，翻领设计，前襟单排纽扣，收腰剪裁修身合体，面料平整挺括，简约干练，适合职场通勤穿着。",
+      "confidence": 0.92
+    },
+    "wears": 6,
+    "idle_days": 14,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp978nk06k9h5igjp200000000038g4n8q.jpg"
+  },
+  {
+    "sku_id": "6a519f1688464600012ffd51",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装外套"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [
+        "弹力"
+      ],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "长袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "黑色修身短款外套，翻领与门襟内衬撞蓝色设计，胸前三粒金色纽扣，袖口同色蓝边收口，版型利落干练，尽显职场精英气质。",
+      "confidence": 0.85
+    },
+    "wears": 43,
+    "idle_days": 4,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adp9nnnk06k9h5igjp20000000000n287u4.jpg"
+  },
+  {
+    "sku_id": "6a51aa04a553c300152386d0",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "西装阔腿裤"
+      },
+      "color": "蓝",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "高腰设计的藏青色阔腿西裤，直筒宽松版型，前中开衩纽扣搭配腰带扣袢，两侧斜插口袋，垂坠感面料挺括利落，展现干练通勤风格。",
+      "confidence": 0.88
+    },
+    "wears": 4,
+    "idle_days": 48,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpa057a06k9h5igjp20000000002suk04c.jpg"
+  },
+  {
+    "sku_id": "6a51b410ab3c850015b27e00",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "网纱靴"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "休闲",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "一款白色高筒网纱靴，圆头厚底设计，靴筒采用透气网纱面料搭配光滑皮质滚边，鞋底厚实防滑，整体简约清爽带有夏日休闲气息。",
+      "confidence": 0.85
+    },
+    "wears": 20,
+    "idle_days": 56,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpa1t7k06k9h5igjp20000000005v55kdo.jpg"
+  },
+  {
+    "sku_id": "6a51cf2f7308b500012b07e4",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "中式盘扣上衣"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "复古",
+      "material": "其他",
+      "pattern": "印花",
+      "description": "粉色中式盘扣短袖上衣，V领设计搭配珍珠盘扣，腰间侧开衩配抽绳装饰，下摆自然打褶，面料带有若隐若现的暗纹肌理，整体气质温婉甜美。",
+      "confidence": 0.85
+    },
+    "wears": 41,
+    "idle_days": 17,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpa29nu06k9h5igjp200000000023i735a.jpg"
+  },
+  {
+    "sku_id": "6a51e43fab3c850015b389a2",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "短靴"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "休闲",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "棕驼色麂皮短靴，圆润方头设计，前中开合拉链搭配侧边金属拉链，粗高跟造型稳重百搭，靴筒简约无多余装饰，质感柔软亲肤。",
+      "confidence": 0.92
+    },
+    "wears": 48,
+    "idle_days": 42,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpa56na06k9h5igjp20000000002a8ijda.jpg"
+  },
+  {
+    "sku_id": "6a5213a01a0aff00011dbc58",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "喇叭裤"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "运动",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "运动",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "黑色高腰弹力喇叭裤，上部贴合腿型下摆微微展开，无明显口袋装饰，面料光滑有弹性，简约百搭适合瑜伽运动或日常穿着。",
+      "confidence": 0.85
+    },
+    "wears": 39,
+    "idle_days": 132,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpa5u7k06k9h5igjp20000000002ef01c6.jpg"
+  },
+  {
+    "sku_id": "6a5213c8eb8eff0015e28cfc",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裙"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "浅蓝色水洗牛仔A字短裙，高腰设计配金属纽扣与前口袋，侧边系带装饰增添细节感，版型利落带有做旧质感，休闲率性。",
+      "confidence": 0.9
+    },
+    "wears": 0,
+    "idle_days": 61,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpai70a06k9h5igjp20000000005tgn2p2.jpg"
+  },
+  {
+    "sku_id": "6a521b23e371ff00010b8fd7",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "休闲短裤"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气",
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米卡其色休闲短裤，松紧腰头设计穿脱方便，后片配双嵌线纽扣口袋，直筒宽松版型，棉质面料柔软透气，简约百搭适合日常休闲穿着。",
+      "confidence": 0.9
+    },
+    "wears": 39,
+    "idle_days": 101,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpau9nk06k9h5igjp20000000007bdvovm.jpg"
+  },
+  {
+    "sku_id": "6a528a846cbefa0001831b88",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "长筒靴"
+      },
+      "color": "未知",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "正式",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "街头",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "银色金属光泽长筒靴，尖头设计搭配细高跟，靴筒修身贴腿至膝下，皮革质感光滑亮泽，整体造型时尚前卫又不失优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 13,
+    "idle_days": 31,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpb067k06k9h5igjp20000000005fc829m.jpg"
+  },
+  {
+    "sku_id": "6a528b588c0a3e000162bc72",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "厚底靴"
+      },
+      "color": "粉",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "街头",
+      "material": "皮革",
+      "pattern": "纯色",
+      "description": "亮粉色圆头短靴，侧边配银色拉链，厚实黑色松糕底与坡跟设计，整体撞色鲜明，个性十足，尽显街头潮酷风格。",
+      "confidence": 0.9
+    },
+    "wears": 51,
+    "idle_days": 80,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpb1tga06k9h5igjp2000000000111sc6c.jpg"
+  },
+  {
+    "sku_id": "6a528d5124f044000141544b",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "皮靴"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "优雅",
+      "material": "皮革",
+      "pattern": "其他",
+      "description": "黑色鳄鱼纹短靴，尖头设计搭配细高跟，靴筒简洁利落，侧边开衩点缀，皮质光泽感强，整体造型干练优雅。",
+      "confidence": 0.9
+    },
+    "wears": 46,
+    "idle_days": 121,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpb52nk06k9h5igjp20000000001dn7b7u.jpg"
+  },
+  {
+    "sku_id": "6a52917ab113e40015a4c578",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "露肩上衣"
+      },
+      "color": "黑",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "黑色露肩短袖上衣，细吊带设计，领口处系带装饰，腰部橡筋收褶，下摆呈喇叭形宽松飘逸，面料轻薄柔软，整体风格甜美清凉。",
+      "confidence": 0.85
+    },
+    "wears": 54,
+    "idle_days": 145,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpbg2nk06k9h5igjp20000000003fktugq.jpg"
+  },
+  {
+    "sku_id": "6a529aa779e4100015976c92",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙裤"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "运动",
+      "function": [
+        "弹力",
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "合身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "运动",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "高腰运动裙裤，A字形裙摆下暗藏短裤内衬，米卡其色简约百搭，弹力功能面料透气舒适，适合运动休闲场合穿着。",
+      "confidence": 0.9
+    },
+    "wears": 53,
+    "idle_days": 113,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpbqdga06k9h5igjp20000000002iq2l40.jpg"
+  },
+  {
+    "sku_id": "6a52aad601c1af000115f7eb",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "通勤",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "黑色高腰包臀短裙，版型修身贴合曲线，裙身简洁无多余装饰，面料略带弹性光泽，风格干练适合职场穿着。",
+      "confidence": 0.9
+    },
+    "wears": 30,
+    "idle_days": 146,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpbr7g206k9h5igjp20000000000brbdus.jpg"
+  },
+  {
+    "sku_id": "6a52abab7308b500013b91f5",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "甜美",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色一字领露肩上衣，领口荷叶褶皱设计，短袖修身版型，贴合身形，面料柔软有弹性，简约甜美风格。",
+      "confidence": 0.9
+    },
+    "wears": 26,
+    "idle_days": 69,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpbtc7a06k9h5igjp2000000000624jfl0.jpg"
+  },
+  {
+    "sku_id": "6a52b430c0b0790015d9f9b6",
+    "tags": {
+      "category": {
+        "major": "鞋履",
+        "sub": "厚底休闲鞋"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "不适用",
+      "style": "街头",
+      "material": "其他",
+      "pattern": "拼色",
+      "description": "厚底系带休闲鞋，黑色帆布鞋面搭配白色系带与圆头设计，白色橡胶厚底加宽增高，鞋跟处配拉环，整体造型时尚个性，兼具街头潮流感与舒适穿着体验。",
+      "confidence": 0.9
+    },
+    "wears": 59,
+    "idle_days": 39,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpc1j0206k9h5igjp20000000006jt8jcc.jpg"
+  },
+  {
+    "sku_id": "6a5301e888464600014a177b",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "休闲裤"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "黑色宽松阔腿休闲裤，高腰松紧设计带褶皱细节，配斜插口袋，裤腿垂坠挺括，面料柔软亲肤，整体简约百搭。",
+      "confidence": 0.85
+    },
+    "wears": 12,
+    "idle_days": 41,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpce97a06k9h5igjp200000000045iah5o.jpg"
+  },
+  {
+    "sku_id": "6a5306ad6cbefa000189cb19",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "九分",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "米卡其色高腰纱裙，A字廓形，中部分层拼接，裙摆层层花瓣式波浪褶边，薄纱面料轻盈飘逸，甜美浪漫气质十足。",
+      "confidence": 0.88
+    },
+    "wears": 55,
+    "idle_days": 105,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpch9nk06k9h5igjp20000000001n9ijru.jpg"
+  },
+  {
+    "sku_id": "6a53136aaa62b500013f69e0",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "牛仔裤"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "长",
+      "style": "复古",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "高腰喇叭牛仔裤，修身臀腿包裹，从膝盖处自然展开呈大喇叭裤型，深浅蓝渐变水洗做旧质感，配经典五袋设计与金属纽扣，复古摩登气质十足。",
+      "confidence": 0.93
+    },
+    "wears": 31,
+    "idle_days": 109,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpcm0g206k9h5igjp20000000001ouolo8.jpg"
+  },
+  {
+    "sku_id": "6a5348c011bb870001d6f3bd",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装马甲"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "米卡其色双排扣西装马甲，V领设计，不对称门襟叠搭，八粒深棕色纽扣呈两列排布，面料挺括有垂坠感，简约干练带有复古气质。",
+      "confidence": 0.85
+    },
+    "wears": 60,
+    "idle_days": 39,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpcrt7k06k9h5igjp20000000006j8q4ji.jpg"
+  },
+  {
+    "sku_id": "6a5349ef4f6fde0001b12ecd",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "马甲"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "防风",
+        "透气"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "浅蓝色连帽马甲，无袖设计，前襟拼色配黑色拉链与撞色纽扣装饰，下摆抽绳收口，两侧斜插口袋，版型宽松，面料轻薄挺括，风格休闲利落。",
+      "confidence": 0.9
+    },
+    "wears": 57,
+    "idle_days": 25,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpcuhna06k9h5igjp20000000001u602aa.jpg"
+  },
+  {
+    "sku_id": "6a53d856aa62b500015292b8",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "修身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "甜美",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "圆领粉色针织短袖上衣，领口与袖口镶米白色蕾丝花边，胸前点缀小蝴蝶结与珍珠装饰，下摆荷叶边收口，版型修身贴身，质地轻薄细腻，甜美俏皮。",
+      "confidence": 0.9
+    },
+    "wears": 6,
+    "idle_days": 77,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpd237u06k9h5igjp2000000000463dr38.jpg"
+  },
+  {
+    "sku_id": "6a5468886cbefa0001a76b23",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "马甲"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "米白色棉质无袖马甲，V领设计，三粒复古铜扣，左右两侧各有一个贴袋，版型宽松，简约百搭，适合日常休闲叠穿。",
+      "confidence": 0.9
+    },
+    "wears": 45,
+    "idle_days": 71,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpdb0g206k9h5igjp20000000001k9s4li.jpg"
+  },
+  {
+    "sku_id": "6a547b7bd34aa9001558f03c",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "无袖衬衫"
+      },
+      "color": "粉",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "甜美",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "粉色无袖衬衫式上衣，翻领设计搭配领口两颗白色纽扣，胸前有细密褶皱，下摆呈灯笼状收拢，面料轻薄垂坠，整体风格甜美优雅。",
+      "confidence": 0.85
+    },
+    "wears": 37,
+    "idle_days": 145,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpdfgnu06k9h5igjp20000000000usc0t0.jpg"
+  },
+  {
+    "sku_id": "6a54b3e2e371ff0001438b2e",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [
+        "弹力"
+      ],
+      "layer": "独立穿着",
+      "silhouette": "修身",
+      "sleeve": "不适用",
+      "length": "九分",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色高腰包臀半身裙，中长过膝款，后中开衩设计，配后腰隐形拉链，版型修身贴合，简约利落尽显职场优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 37,
+    "idle_days": 58,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpdmvnk06k9h5igjp20000000003831h6g.jpg"
+  },
+  {
+    "sku_id": "6a54bdc3437d340001b73f98",
+    "tags": {
+      "category": {
+        "major": "下装",
+        "sub": "半身裙"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "不适用",
+      "length": "短",
+      "style": "复古",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "高腰百褶半身裙，米卡其色，配同色织带双孔金属扣腰带，裙身自然打褶呈A字廓形，面料挺括有质感，整体风格复古俏皮。",
+      "confidence": 0.9
+    },
+    "wears": 2,
+    "idle_days": 13,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpdohg206k9h5igjp20000000004vjpufs.jpg"
+  },
+  {
+    "sku_id": "6a5512ed7308b500017301a7",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "牛仔马甲"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "白色牛仔无袖马甲，翻领设计，前襟单排纽扣，胸前双贴袋带盖，下摆两侧竖向分割线条，版型合身，休闲百搭风格。",
+      "confidence": 0.92
+    },
+    "wears": 45,
+    "idle_days": 127,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpdqsga06k9h5igjp20000000001d123rc.jpg"
+  },
+  {
+    "sku_id": "6a55438e4382e20001617f2c",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "马甲"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "防风",
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "休闲",
+      "material": "功能面料",
+      "pattern": "纯色",
+      "description": "砖红色圆领无袖工装马甲，单排五粒扣设计，胸前及腹部各有一对带盖大口袋，下摆两侧配有抽绳收口，面料轻薄带有细腻光泽，整体风格休闲实用。",
+      "confidence": 0.88
+    },
+    "wears": 8,
+    "idle_days": 126,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpe81nk06k9h5igjp20000000002p0so70.jpg"
+  },
+  {
+    "sku_id": "6a554a24e9f0b1000111ba02",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "红",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "五分",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "红色麻花绞花针织马甲，V领无袖设计，罗纹领口与下摆收边，纵向麻花辫纹理贯穿全身，版型合身，质感厚实温暖，带有复古学院气息。",
+      "confidence": 0.92
+    },
+    "wears": 53,
+    "idle_days": 45,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpeh57u06k9h5igjp200000000010poh6k.jpg"
+  },
+  {
+    "sku_id": "6a56a690aa62b50001923525",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "米卡其",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "简约",
+      "material": "雪纺",
+      "pattern": "纯色",
+      "description": "米白色圆领无袖上衣，肩部有细密褶皱设计，后领处有小开衩纽扣，衣身宽松垂坠，面料轻薄柔软，整体简约雅致。",
+      "confidence": 0.85
+    },
+    "wears": 6,
+    "idle_days": 81,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpej3nu06k9h5igjp20000000000ph4vco.jpg"
+  },
+  {
+    "sku_id": "6a56a8b44f6fde0001faef15",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "米白色麻花针织无袖马甲，V领单排四粒纽扣设计，罗纹领口袖窿，整体版型合身，质地柔软保暖，风格温柔复古。",
+      "confidence": 0.9
+    },
+    "wears": 1,
+    "idle_days": 130,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpekknu06k9h5igjp20000000002pn1q36.jpg"
+  },
+  {
+    "sku_id": "6a5790f4e371ff0001833a75",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "粉",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气",
+        "弹力"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "简约",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "浅粉色圆领短袖针织T恤，罗纹领口设计，版型合身，面料细腻柔软，简约百搭，展现清新温柔的气质。",
+      "confidence": 0.92
+    },
+    "wears": 11,
+    "idle_days": 17,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpelmg206k9h5igjp20000000006j5hpi8.jpg"
+  },
+  {
+    "sku_id": "6a58c30cf8cf6200151d36d6",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "牛仔马甲"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "翻领无袖牛仔马甲，胸前双贴袋配袋盖设计，单排纽扣开襟，衣身分割线条修饰腰身，深蓝色水洗牛仔质地，休闲百搭风格。",
+      "confidence": 0.92
+    },
+    "wears": 11,
+    "idle_days": 118,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpet20a06k9h5igjp200000000051sevrk.jpg"
+  },
+  {
+    "sku_id": "6a5953657308b50001cfa9a4",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "米白色麻花针织V领马甲，领口与下摆饰黑色条纹撞色边，无袖设计，版型合身，学院复古气息浓厚。",
+      "confidence": 0.92
+    },
+    "wears": 41,
+    "idle_days": 52,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpfbq7k06k9h5igjp2000000000666itlc.jpg"
+  },
+  {
+    "sku_id": "6a5b38d7e9f0b1000192da10",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "马甲"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "毛呢",
+      "pattern": "纯色",
+      "description": "黑色小香风粗花呢无袖马甲，V领设计，前襟排列金色狮头纽扣，胸前双侧配装饰袋盖，版型合身修身，面料带细密织纹质感，尽显精致优雅气质。",
+      "confidence": 0.9
+    },
+    "wears": 19,
+    "idle_days": 95,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpfdr7a06k9h5igjp2000000000796ktng.jpg"
+  },
+  {
+    "sku_id": "6a5b95f871d24900010d9402",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "短袖",
+      "length": "九分",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "其他",
+      "description": "白色圆领短袖T恤，宽松版型，衣身布满人字形凸纹肌理，面料略带毛边质感，简约百搭，适合日常休闲穿搭。",
+      "confidence": 0.85
+    },
+    "wears": 42,
+    "idle_days": 49,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpfpnnk06k9h5igjp200000000075gkn9i.jpg"
+  },
+  {
+    "sku_id": "6a5be587437d34000155126e",
+    "tags": {
+      "category": {
+        "major": "连身",
+        "sub": "针织背心裙"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "独立穿着",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "九分",
+      "style": "休闲",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "橘棕色针织背心连衣裙，V领配罗纹拼边，无袖宽肩设计，前身两侧带贴布口袋，直筒宽松版型，下摆罗纹收边，质地柔软休闲慵懒。",
+      "confidence": 0.87
+    },
+    "wears": 11,
+    "idle_days": 138,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpft80206k9h5igjp20000000002kvkhmq.jpg"
+  },
+  {
+    "sku_id": "6a5cecdc8c0a3e000145fc9c",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "马甲"
+      },
+      "color": "粉",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "七分",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "粉棕色灯芯绒立领马甲，无袖设计，前襟拉链开合，两侧配贴袋，条纹质感面料带来复古休闲气息，版型合身有型。",
+      "confidence": 0.9
+    },
+    "wears": 15,
+    "idle_days": 93,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpftnna06k9h5igjp200000000066l25js.jpg"
+  },
+  {
+    "sku_id": "6a5d9e0ac13d0f0015509a86",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "抓绒马甲"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "简约",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "米卡其色抓绒马甲，立领拉链设计，无袖修身版型，两侧配斜插口袋，面料柔软亲肤，简约百搭适合日常叠穿保暖。",
+      "confidence": 0.9
+    },
+    "wears": 37,
+    "idle_days": 37,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpg25nu06k9h5igjp200000000037hjda6.jpg"
+  },
+  {
+    "sku_id": "6a5db42849fb5f00151a29a7",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "米卡其",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "长",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "印花",
+      "description": "圆领长袖T恤，米白底色满印灰色枝叶图案，版型合身，面料柔软透气，风格自然休闲。",
+      "confidence": 0.85
+    },
+    "wears": 50,
+    "idle_days": 59,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpgd90206k9h5igjp20000000004q98cd0.jpg"
+  },
+  {
+    "sku_id": "6a5e0939b5de6c0001b759e6",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "黑色V领无袖针织马甲，前襟单排纽扣开合，胸前拼接米白色阿盖尔菱格纹图案，罗纹领口与下摆，版型宽松，复古学院气息浓厚。",
+      "confidence": 0.9
+    },
+    "wears": 58,
+    "idle_days": 90,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpgf80206k9h5igjp20000000005155m5s.jpg"
+  },
+  {
+    "sku_id": "6a5e84366cbefa00018776cc",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "牛仔马甲"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "牛仔蓝色立领马甲，无袖设计，前襟拉链开合，衣身竖向分割拼接线条，下摆有横向拼接边，版型合身，休闲中带有硬朗质感。",
+      "confidence": 0.9
+    },
+    "wears": 22,
+    "idle_days": 89,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpgslna06k9h5igjp200000000033dfb62.jpg"
+  },
+  {
+    "sku_id": "6a5f3553f8b2fa00017e7ef3",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "灰",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "七分",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "灰色麻花纹针织V领背心，领口与下摆饰黑色条纹拼边，无袖设计，版型合身，质地厚实带复古学院气息。",
+      "confidence": 0.92
+    },
+    "wears": 36,
+    "idle_days": 42,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpgvqg206k9h5igjp20000000001avvpum.jpg"
+  },
+  {
+    "sku_id": "6a5f54a064c86a0015d92945",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "T恤"
+      },
+      "color": "白",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "短袖",
+      "length": "短",
+      "style": "简约",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "圆领纯白短袖T恤，宽松版型，后颈处开口设计，下摆两侧微开衩，面料光滑垂坠，整体风格简约百搭。",
+      "confidence": 0.85
+    },
+    "wears": 32,
+    "idle_days": 133,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adph05na06k9h5igjp20000000004fu7k52.jpg"
+  },
+  {
+    "sku_id": "6a5f76d04382e200014389bb",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装马甲"
+      },
+      "color": "棕驼",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "棕驼色西装领无袖马甲，单粒扣设计，前襟两侧带盖口袋，收腰剪裁修饰身形，下摆开衩，面料挺括有垂坠感，尽显干练利落的通勤气质。",
+      "confidence": 0.85
+    },
+    "wears": 55,
+    "idle_days": 117,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adph3p0a06k9h5igjp20000000002u3fto2.jpg"
+  },
+  {
+    "sku_id": "6a5f9dd182e319001516909c",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "连帽马甲"
+      },
+      "color": "其他多色",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "五分",
+      "style": "未知",
+      "material": "牛仔",
+      "pattern": "拼色",
+      "description": "无袖连帽拼接马甲，采用军绿与深蓝牛仔撞色设计，下摆呈花瓣状开衩，胸前点缀花卉印花与撞色几何拼块及纽扣装饰，休闲率性又不失设计感。",
+      "confidence": 0.75
+    },
+    "wears": 18,
+    "idle_days": 81,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adph9oga06k9h5igjp20000000000sahpm2.jpg"
+  },
+  {
+    "sku_id": "6a5fbd70c13d0f001547fd74",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "羽绒马甲"
+      },
+      "color": "米卡其",
+      "season": "冬",
+      "warmth": "厚重",
+      "scene": "休闲",
+      "function": [
+        "保暖",
+        "防风"
+      ],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "七分",
+      "style": "简约",
+      "material": "羽绒",
+      "pattern": "纯色",
+      "description": "米卡其色立领羽绒马甲，中间拉链设计，胸前斜向绗缝线条，两侧斜插口袋，下摆两侧开衩拉链，版型合身，面料饱满有光泽，风格简约百搭。",
+      "confidence": 0.92
+    },
+    "wears": 60,
+    "idle_days": 30,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpheonk06k9h5igjp20000000000ik7dnq.jpg"
+  },
+  {
+    "sku_id": "6a5fe8b1f8b2fa00018d8557",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "米白色针织马甲，V领设计搭配单排四粒深色扣子，罗纹收边袖窿与下摆，宽松版型，质地厚实柔软，风格简约复古。",
+      "confidence": 0.92
+    },
+    "wears": 3,
+    "idle_days": 93,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpi1oga06k9h5igjp2000000000398loqc.jpg"
+  },
+  {
+    "sku_id": "6a60525daa62b50001687aa8",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "唐装马甲"
+      },
+      "color": "其他多色",
+      "season": "夏",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [],
+      "layer": "内搭",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "其他",
+      "pattern": "印花",
+      "description": "无袖立领唐装式上衣，中式盘扣一字排开点缀胸前，米粉底色满印牡丹与鲤鱼纹样，色彩浓艳华丽，整体版型合身，尽显复古中式风情。",
+      "confidence": 0.85
+    },
+    "wears": 23,
+    "idle_days": 99,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpi1l7u06k9h5igjp20000000006unkfi0.jpg"
+  },
+  {
+    "sku_id": "6a6104b490dd0f0001821fbc",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装马甲"
+      },
+      "color": "黑",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "长",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色无袖西装马甲，V领设计，双排扣搭配单排纽扣装饰，胸前两粒扣，衣身两侧配斜插口袋，version宽松挺括，长款版型，简约干练具有中性通勤气质。",
+      "confidence": 0.85
+    },
+    "wears": 23,
+    "idle_days": 141,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpi4m7u06k9h5igjp20000000007bpreos.jpg"
+  },
+  {
+    "sku_id": "6a6132aa8846460001b83cd0",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "棒球领马甲"
+      },
+      "color": "黑",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "街头",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "黑色棒球领无袖马甲，前襟排列银色纽扣，两侧设有斜插口袋，罗纹领口、袖笼与下摆收边，版型合身，休闲街头风格十足。",
+      "confidence": 0.85
+    },
+    "wears": 54,
+    "idle_days": 140,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpi95na06k9h5igjp200000000049eq1ui.jpg"
+  },
+  {
+    "sku_id": "6a614d2655f0ca00018bb8fc",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "夹克"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [
+        "保暖"
+      ],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "长袖",
+      "length": "短",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "拼色",
+      "description": "衬衫领拼色夹克，深棕色领口肩部与袖子搭配米卡其色菱格绗缝前身，单排纽扣设计，版型合身，休闲百搭又不失质感。",
+      "confidence": 0.85
+    },
+    "wears": 40,
+    "idle_days": 66,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpiaknk06k9h5igjp20000000004tajsgq.jpg"
+  },
+  {
+    "sku_id": "6a61bf10d09fb600013182af",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装外套"
+      },
+      "color": "白",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "休闲",
+      "function": [
+        "透气"
+      ],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "七分袖",
+      "length": "九分",
+      "style": "休闲",
+      "material": "棉",
+      "pattern": "纯色",
+      "description": "白色纯棉质感西装外套，翻领设计，七分袖，前襟无扣敞开式，两侧配有袋盖口袋，衣身带有细密竖纹肌理，版型宽松休闲，透气清爽。",
+      "confidence": 0.85
+    },
+    "wears": 50,
+    "idle_days": 83,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpibrnk06k9h5igjp20000000007mekib2.jpg"
+  },
+  {
+    "sku_id": "6a62703f55f0ca0001a5738e",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装马甲"
+      },
+      "color": "黑",
+      "season": "四季通用",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "黑色无袖西装马甲，V领设计，前襟四粒扣，左右两侧配有斜插口袋，腰部收身剪裁，面料挺括有垂坠感，整体简约干练，适合职场穿搭。",
+      "confidence": 0.92
+    },
+    "wears": 20,
+    "idle_days": 95,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpj1i7a06k9h5igjp20000000006n1u72c.jpg"
+  },
+  {
+    "sku_id": "6a627a4c6cbefa00013f33fc",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织衫"
+      },
+      "color": "黑",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "内搭",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "简约",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "黑色针织马甲，V领设计搭配罗纹滚边，无袖宽松版型，衣身及下摆均以罗纹收边，简约百搭，适合叠穿内搭衬衫或T恤。",
+      "confidence": 0.92
+    },
+    "wears": 9,
+    "idle_days": 80,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpj2qnk06k9h5igjp20000000006qjq7ie.jpg"
+  },
+  {
+    "sku_id": "6a646e284cc86900154ab276",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "西装马甲"
+      },
+      "color": "蓝",
+      "season": "春",
+      "warmth": "轻薄",
+      "scene": "商务",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "修身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "通勤",
+      "material": "其他",
+      "pattern": "纯色",
+      "description": "深藏蓝色西装马甲，无袖修身版型，V领设计，双排扣搭配圆形纽扣，前襟两侧带斜插口袋，下摆呈尖角造型，内里为同色系缎面里布，整体气质干练利落，适合职场通勤穿搭。",
+      "confidence": 0.9
+    },
+    "wears": 9,
+    "idle_days": 73,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpj57g206k9h5igjp2000000000319euba.jpg"
+  },
+  {
+    "sku_id": "6a64e4e655f0ca0001db9bef",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织马甲"
+      },
+      "color": "米卡其",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "纯色",
+      "description": "米白色圆领无袖针织马甲，短款修身版型，正面四粒暗扣搭配布条门襟设计，面料厚实带纹理，简约复古风格。",
+      "confidence": 0.85
+    },
+    "wears": 52,
+    "idle_days": 12,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpjhonk06k9h5igjp200000000005b6d3s.jpg"
+  },
+  {
+    "sku_id": "6a66c7bd11bb870001151bed",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "牛仔马甲"
+      },
+      "color": "灰",
+      "season": "春",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "宽松",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "街头",
+      "material": "牛仔",
+      "pattern": "纯色",
+      "description": "灰色水洗牛仔马甲，V领设计搭配单排金属扣，胸前一个小翻盖口袋，下摆两侧各有一个大翻盖贴袋，无袖宽松版型，做旧质感彰显街头休闲气息。",
+      "confidence": 0.92
+    },
+    "wears": 35,
+    "idle_days": 80,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpjnfga06k9h5igjp20000000005dsegbe.jpg"
+  },
+  {
+    "sku_id": "6a69259116b37a0015adb035",
+    "tags": {
+      "category": {
+        "major": "上装",
+        "sub": "针织马甲"
+      },
+      "color": "粉",
+      "season": "秋",
+      "warmth": "适中",
+      "scene": "休闲",
+      "function": [],
+      "layer": "外层",
+      "silhouette": "合身",
+      "sleeve": "无袖",
+      "length": "短",
+      "style": "复古",
+      "material": "针织",
+      "pattern": "拼色",
+      "description": "粉色系花呢针织马甲，V领单排扣设计，白色编织滚边勾勒领口袖窿及口袋，双侧贴袋点缀，整体复古优雅带甜美气息。",
+      "confidence": 0.85
+    },
+    "wears": 34,
+    "idle_days": 14,
+    "status": "ok",
+    "image_url": "https://fe-video-qc.xhscdn.com/fe-platform-file/104101b8323adpjp27k06k9h5igjp200000000060ueos4.jpg"
+  }
+]

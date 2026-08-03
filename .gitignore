@@ -1,0 +1,10 @@
+db.properties
+ai.properties
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+build_seed.py
+patch_frontend.py

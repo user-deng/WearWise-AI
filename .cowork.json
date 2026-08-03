@@ -1,0 +1,28 @@
+{
+  "schema": "cowork-project/v1",
+  "id": "cw_proj_3znfm2wjxd",
+  "name": "有一套",
+  "srcDir": "/home/node/.openclaw/workspace/downloads/aidress",
+  "createdAt": 1785732952494,
+  "updatedAt": 1785733340248,
+  "createdBy": "cowork-cli-checkout",
+  "guardCompliant": true,
+  "cowork": {
+    "workId": 128696,
+    "workDeployType": "APP_DEPLOY",
+    "appId": "a0cc906e",
+    "alias": "aidress",
+    "accessUrl": "https://cowork.xiaohongshu.com/s/aidress/",
+    "coworkAppUrl": "https://cowork.xiaohongshu.com/app/NWEzZDk4OTU",
+    "deploymentId": 16840,
+    "staticResourceId": null,
+    "deploymentStatus": "RUNNING",
+    "visibility": "PUBLIC",
+    "publishedAt": 1785733340248,
+    "version": "1.0.3",
+    "intro": "不必迎合，你自有一套。",
+    "desc": "① 情绪理解：大模型融合日程、天气、今日 OOTD、试镜互动与历史反馈，识别用户当下状态及需要怎样的情绪价值\n② 衣橱理解：录入用户的衣多模态模型识别衣物，完成品类、颜色、版型和白底图补全\n③ 搭配生成：结合身材特征、穿衣习惯与当前情绪需求和历史的反馈，搭配模型生成候选方案，审美模型评分重排，生成你想成为的样子，让你的穿搭更具有故事感和个人主张；",
+    "rawAccessUrl": "https://cowork.xiaohongshu.com/s/a0cc906e/",
+    "lastZipHash": "sha256:b3ee1b313a7b345844f6f34befa940ce4350909177f5e2c91c8f98793c008f4c"
+  }
+}
