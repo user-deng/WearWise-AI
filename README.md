@@ -6,6 +6,9 @@ An emotion-driven AI wardrobe & outfit assistant that understands your closet, s
 
 **[中文文档](./README.zh-CN.md)** | English
 
+![WearWise AI screenshots — Today / Inspiration / Closet](./docs/screenshots/app-preview.png)
+<p align="center"><em>Today · Inspiration · Closet</em></p>
+
 ---
 
 ## Overview
@@ -30,8 +33,6 @@ Core value propositions:
 | UI | Tailwind CSS, Radix UI, MUI icons, shadcn/ui-style components |
 | Animation | Motion (Framer Motion family) |
 | Tooling | npm / pnpm workspace |
-
-> All AI calls go through an internal gateway — the project never talks to Anthropic/OpenAI/Google APIs directly, which keeps credentials centralized and auditable.
 
 ## Project Structure
 
@@ -116,8 +117,3 @@ If these are not configured, related API endpoints respond with `503` instead of
 | `ootd_diary` | Daily diary entries keyed by date |
 | `insights_cache` | Cached wardrobe insight cards, refreshed daily |
 | `files` | Binary asset index backed by PostgreSQL Large Objects (photos, avatars, generated images) |
-
-## Notes
-
-- This project is scaffolded for the **Cowork** deployment platform (`react-fastapi-monorepo` profile): the backend both serves the API and hosts the built frontend (`frontend/dist`) as a static SPA.
-- All AI capabilities (vision tagging, mood inference, image completion/generation) are called through a centralized internal gateway rather than directly against third-party SDKs.

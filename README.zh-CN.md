@@ -6,6 +6,9 @@
 
 中文 | **[English](./README.md)**
 
+![WearWise AI 界面预览 — 今日 / 灵感 / 衣橱](./docs/screenshots/app-preview.png)
+<p align="center"><em>今日 · 灵感 · 衣橱</em></p>
+
 ---
 
 ## 项目简介
@@ -30,8 +33,6 @@
 | UI | Tailwind CSS、Radix UI、MUI 图标、shadcn/ui 风格组件 |
 | 动画 | Motion（Framer Motion 系列） |
 | 工具链 | npm / pnpm workspace |
-
-> 所有 AI 调用统一经过内部网关，不直连 Anthropic / OpenAI / Google 官方 SDK，便于凭证集中管理与用量审计。
 
 ## 目录结构
 
@@ -116,8 +117,3 @@ npm run dev
 | `ootd_diary` | 按日期存储的日记条目 |
 | `insights_cache` | 衣橱洞察卡片缓存，每日自动刷新 |
 | `files` | 二进制资源索引，底层为 PostgreSQL Large Object（照片、形象图、生成图等） |
-
-## 说明
-
-- 本项目基于 **Cowork** 部署平台的 `react-fastapi-monorepo` 脚手架规范搭建：后端既提供 API，也直接托管前端构建产物（`frontend/dist`）作为单页应用静态资源。
-- 所有 AI 能力（视觉打标、情绪推断、图片补全/生成）均通过统一的内部网关调用，不直连第三方 SDK。
